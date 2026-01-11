@@ -1,0 +1,13 @@
+Task_Level,Method,Silhouette_Score,Calinski_Harabasz,Davies_Bouldin,ARI,NMI,Purity
+Easy,PCA,0.3666,1696.36,,,,
+Easy,VAE,0.3351,1393.13,,,,
+Medium,Conv_VAE + DBSCAN,0.1617,,4.4906,0.0093,,
+Medium,Conv_VAE + K-Means,0.0868,,2.1155,0.0254,,
+Medium,PCA + K-Means,0.0654,,2.9038,0.0366,,
+Medium,Conv_VAE + Agglomerative,0.0389,,2.6113,0.0129,,
+Medium,PCA + Agglomerative,0.0375,,3.1131,0.0343,,
+Medium,PCA + DBSCAN,-0.046,,9.1281,-0.0183,,
+Hard,Beta-VAE + K-Means,0.0528,,2.7134,0.0258,0.0802,0.3729
+Hard,PCA + K-Means,0.0654,,2.9038,0.0366,0.1066,0.3764
+Hard,Autoencoder + K-Means,0.0791,,2.3962,0.041,0.1102,0.3783
+Hard,Spectral Features + K-Means,0.0655,,2.9052,0.0365,0.1066,0.3764
