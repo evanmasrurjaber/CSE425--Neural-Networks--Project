@@ -9,5 +9,5 @@ To reproduce the experiments, please download the datasets from the sources belo
 | Dataset | Description | Link |
 | :--- | :--- | :--- |
 | **GTZAN Genre Collection** | Used for the "Easy" task and Western/English portion of the hybrid dataset. | [Download GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) |
-| **BanglaBeats** | Used for the Regional/Bangla portion of the hybrid dataset. | [Access via IEEE](https://www.kaggle.com/datasets/thisisjibon/banglabeats3sec) |
+| **BanglaBeats** | Used for the Regional/Bangla portion of the hybrid dataset. | [Download BanglaBeats](https://www.kaggle.com/datasets/thisisjibon/banglabeats3sec) |
 | **MERGE Dataset** | Used for the Trimodal (Audio + Lyrics + Genre) "Hard" task experiments. | [Download MERGE](https://zenodo.org/records/13939205?utm_source=chatgpt.com) |
