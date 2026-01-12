@@ -8,4 +8,4 @@ To reproduce the experiments, please download the datasets from the sources belo
 
 | Dataset | Description | Link |
 | :--- | :--- | :--- |
-| **MERGE Dataset** | [cite_start]Used for the Trimodal (Audio + Lyrics + Genre) "Hard" task experiments[cite: 286]. | [Download MERGE](https://zenodo.org/records/13939205?utm_source=chatgpt.com) |
+| **MERGE Dataset** | Used for the Trimodal (Audio + Lyrics + Genre) "Hard" task experiments. | [Download MERGE](https://zenodo.org/records/13939205?utm_source=chatgpt.com) |
