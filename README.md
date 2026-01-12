@@ -1,5 +1,5 @@
 # Multimodal Music Clustering using Variational Autoencoders
-#[Project Report](https://drive.google.com/file/d/1ygnVgW69BIYJYl_ilaGBRQmV3VqecKwJ/view?usp=drive_link)
+## [Project Report](https://drive.google.com/file/d/1ygnVgW69BIYJYl_ilaGBRQmV3VqecKwJ/view?usp=drive_link)
 
 An unsupervised learning research project exploring the use of Variational Autoencoders (VAEs) to cluster hybrid-language music tracks (English and Bangla). This project addresses the challenges of high-dimensional audio data and the "semantic gap" in cross-cultural music information retrieval.
 
